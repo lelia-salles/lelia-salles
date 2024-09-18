@@ -5,7 +5,7 @@
 - 📫 You can contact me at lelia@mastermusica.com.br or through [Linkedin](https://www.linkedin.com/in/leliasalles). I use to have another github account which I lost access and you can have a look at [here](https://www.github.com/leliasalles) in case you are interested
 - 😄 Pronouns: Ms. Lelia Salles
 - ⚡ Fun fact: no fun fact ...
-- ✨ Somtimes I use a library PC for coding and as I have no admin access I can´t use SSH so I´created another branch named Telecentro@CDI-05
+- ✨ Somtimes I use a library PC for coding and as I have no admin access I can´t use SSH so I have created another branch named Telecentro@CDI-05
 
 <!---
 lelia-salles/lelia-salles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
