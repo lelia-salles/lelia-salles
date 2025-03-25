@@ -100,6 +100,13 @@ I am currently updating this repository, as it originally contained my exercises
 ![Stats](https://github-readme-stats.vercel.app/api?username=lelia-salles&theme=moltack&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lelia-salles&theme=moltack&layout=compact) 
 
+## Contatos:
+
+<div alingn= "center">
+<a href = "mailto:lelia@mastermusica.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leliasalles" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 <!---
 lelia-salles/lelia-salles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
