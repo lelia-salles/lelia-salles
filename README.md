@@ -12,10 +12,9 @@
 <h2 align="center">🌱 My Journey in IT</h2> 
 <p align="center">  
   
-:arrow_upper_right: I began my IT apprenticeship in 2021, focusing on Java, JavaScript, Node.js, Bootstrap, HTML, CSS, SASS, DevOps (Python for security, AWS, Docker), Agile Methodology, Design Thinking, QA (Selenium, Robots), UX/UI, SQL, NoSQL (MongoDB), and a little bit of Microservices with Spring Boot. However only by 2025 I could spend more time coding.
+:arrow_upper_right: I began my IT apprenticeship in 2021, focusing on Java, JavaScript, Node.js, Bootstrap, HTML, CSS, SASS, DevOps (Python for security, AWS, Docker), Agile Methodology, Design Thinking, QA (Selenium, Robots), UX/UI, SQL, NoSQL (MongoDB), and a little bit of Microservices with Spring Boot. However only by 2025 I could spend more time coding. <br />
 
-<code>:
-  
+ <br /> 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lelia-salles&theme=merko&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lelia-salles&theme=merko&layout=compact) 
 
