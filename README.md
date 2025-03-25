@@ -1,8 +1,8 @@
 # Lelia Salles
+<h1 align="center">Lelia Salles</h1>
 
 ## 👋 Hi, I’m @lelia-salles and welcome to my Github!
 
-- 👀 
 
 :notes: I’m a musician (MMus by research, BMus composition, recorder player), and Certified Tech Developer fullstack 
 
