@@ -19,7 +19,7 @@
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lelia-salles&theme=merko&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/api?username=lelia-salles&theme=merko)
 [![My Activities](https://github-readme-activity-graph.vercel.app/graph?username=lelia-salles&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
