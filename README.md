@@ -2,7 +2,15 @@
 
 <h2 align="center">👋 Hi, I’m @lelia-salles and welcome to my Github!</h2> 
 
-:notes: I’m a musician (MMus by research, BMus composition, recorder player), and Certified Tech Developer fullstack interested in the relation between music expression and technology.
+<p align="center">
+  
+  :notes: I’m a musician (MMus by research, BMus composition, recorder player), and Certified Tech Developer fullstack interested in the relation between music expression and technology.
+</p>
+
+
+
+<h2 align="center">🌱 My Journey in IT</h2> 
+
   
 - 🌱 I began my IT apprenticeship in 2021, at Digital House focusing on Java, JavaScript, Node.js, Bootstrap, HTML, CSS, SASS, DevOps (Python for security, AWS, Docker), Agile Methodology, Design Thinking, QA (Selenium, Robots), UX/UI, SQL, NoSQL (MongoDB), and a little bit of Microservices with Spring Boot. 
 - 💞️ I’m looking to collaborate on any kind of project. However, I look forward to meet musicians around here. I also founded [Master Musica](https://www.mastermusica.com.br), which is a startup for musicians.
