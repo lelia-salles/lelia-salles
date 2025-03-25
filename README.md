@@ -17,7 +17,7 @@
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lelia-salles&theme=dark&show_icons=true)
-[![My Activities](https://github-readme-activity-graph.vercel.app/graph?username=lelia-salles&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Activities](https://github-readme-activity-graph.vercel.app/graph?username=lelia-salles&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 
