@@ -1,4 +1,3 @@
-<pre>
 <h1 align="center">Lelia Salles</h1>
 
 <h2 align="center">👋 Hi, I’m @lelia-salles and welcome to my Github!</h2> 
@@ -62,7 +61,7 @@ I am currently updating this repository, as it originally contained my exercises
 - ⚡ Fun fact: no fun fact ...
 - ✨ Somtimes I use a library PC for coding and as I have no admin access I can´t use SSH so I have created another branch named Telecentro@CDI-05
 - 🤝 Please, feel free to contribute with any project here. Thank you!
-</pre>
+
 <!---
 lelia-salles/lelia-salles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
