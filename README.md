@@ -12,10 +12,12 @@
 <h2 align="center">🌱 My Journey in IT</h2> 
 <p align="center">  
   
-:arrow_upper_right: I began my IT apprenticeship in 2021, at Digital House focusing on Java, JavaScript, Node.js, Bootstrap, HTML, CSS, SASS, DevOps (Python for security, AWS, Docker), Agile Methodology, Design Thinking, QA (Selenium, Robots), UX/UI, SQL, NoSQL (MongoDB), and a little bit of Microservices with Spring Boot. 
+:arrow_upper_right: I began my IT apprenticeship in 2021, focusing on Java, JavaScript, Node.js, Bootstrap, HTML, CSS, SASS, DevOps (Python for security, AWS, Docker), Agile Methodology, Design Thinking, QA (Selenium, Robots), UX/UI, SQL, NoSQL (MongoDB), and a little bit of Microservices with Spring Boot. However only by 2025 I could spend more time coding.
+
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lelia-salles&theme=dark&show_icons=true)
-[![My Activities](https://github-readme-activity-graph.vercel.app/graph?username=lelia-salles)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Activities](https://github-readme-activity-graph.vercel.app/graph?username=lelia-salles)](https://github.com/ashutosh00710&theme=dracula/github-readme-activity-graph)
 
 </p>
 
