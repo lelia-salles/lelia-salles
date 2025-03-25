@@ -9,6 +9,17 @@
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20UPDATING&color=GREEN&style=for-the-badge"/>
 </p>
+<h3 align="center">🚧 Ongoing Updates (2021 - 2025)</h3> 
+
+I am currently updating this repository, as it originally contained my exercises from 2021. Since then, I've made improvements, refactored old code, and introduced new concepts based on my growing knowledge and experience.
+
+🔄 What’s changing:
+
+- Refactoring of earlier projects to reflect modern practices and optimizations.
+- Adding new exercises and projects that I have worked on in the past as well as recently.
+- Improving documentation and code readability.
+*Stay tuned for more updates!*
+</p> 
 
 <h2 align="center">⏫: My Journey in IT</h2> 
 
@@ -84,18 +95,6 @@
     </td>
   </tr>  
 </table>    
-
-<h3 align="center">🚧 Ongoing Updates (2021 - 2025)</h3> 
-
-I am currently updating this repository, as it originally contained my exercises from 2021. Since then, I've made improvements, refactored old code, and introduced new concepts based on my growing knowledge and experience.
-
-🔄 What’s changing:
-
-- Refactoring of earlier projects to reflect modern practices and optimizations.
-- Adding new exercises and projects that I have worked on in the past as well as recently.
-- Improving documentation and code readability.
-*Stay tuned for more updates!*
-</p> 
 
 <div align= "center">
 
