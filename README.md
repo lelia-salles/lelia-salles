@@ -15,14 +15,11 @@
 :arrow_upper_right: I began my IT apprenticeship in 2021, focusing on Java, JavaScript, Node.js, Bootstrap, HTML, CSS, SASS, DevOps (Python for security, AWS, Docker), Agile Methodology, Design Thinking, QA (Selenium, Robots), UX/UI, SQL, NoSQL (MongoDB), and a little bit of Microservices with Spring Boot. However only by 2025 I could spend more time coding.
 
 
-<div style="display: flex; flex-direction: row;">
+![Stats] (https://github-readme-stats.vercel.app/api?username=lelia-salles&theme=merko&show_icons=true) 
+![Top Languages]= (https://github-readme-stats.vercel.app/api/top-langs/?username=lelia-salles&theme=merko&layout=compact) 
 
 
- <img class="img" src= (https://github-readme-stats.vercel.app/api?username=lelia-salles&theme=merko&show_icons=true) />
- <img class="img" src= (https://github-readme-stats.vercel.app/api/top-langs/?username=lelia-salles&theme=merko&layout=compact) />
-
-</div>
-[![My Activities](https://github-readme-activity-graph.vercel.app/graph?username=lelia-salles&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Activities](https://github-readme-activity-graph.vercel.app/graph?username=lelia-salles&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 
