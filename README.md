@@ -10,7 +10,7 @@
 
 <p align="center"> 
   
-:arrow_upper_right: I began my IT apprenticeship in 2021, focusing on Java, JavaScript, Node.js, Bootstrap, HTML, CSS, SASS, DevOps (Python for security, AWS, Docker), Agile Methodology, Design Thinking, QA (Selenium, Robots), UX/UI, SQL, NoSQL (MongoDB), and a little bit of Microservices with Spring Boot.          
+:arrow_upper_right: I began my IT apprenticeship in 2021, focusing on Java, JavaScript, Node.js, Bootstrap, HTML, CSS, SASS, DevOps (Python for security, AWS, Docker), Agile Methodology, Design Thinking, QA (Selenium, Robots), UX/UI, SQL, NoSQL (MongoDB), and a little bit of Microservices. Currently I am startint to learn Machine Learning and IA studying an MBA (at Bookplay) which I expect to finish by 2026. I also use to mantain my skills and learn new ones at [DIO](https://www.dio.me/) where I am currently Campus Expert Ambassador         
 <table>
   <tr>
     <td><strong>Backend</strong></td>
