@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hi, I’m @lelia-salles and welcome to my Github!</h2> 
 
 <p align="center">  
-  :notes: I’m a musician (MMus by research, BMus composition, recorder player), and Certified Tech Developer fullstack interested in the relation between music expression and technology.
+  :notes: I’m a musician (MMus by research - Univerwsity of East Anglia - England | BMus composition - University of Brasilia, Recorder Player - winner awards solo category - The Wharfedale Music Festival, England), and fullstack web developer (Certified Tech Developer - Digital House), interested in the relation between music expression and technology.
 </p>
 
 <h2 align="center">⏫: My Journey in IT</h2> 
@@ -19,7 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" />             
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" />
+
+          
  </div>
     </td>
   </tr>
@@ -44,11 +46,44 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line.svg" width="40" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" width="40" />
+  
+          
+                
 </div>
     </td>
   </tr>
-  
+    <tr>
+    <td><strong>UX/UI</strong></td>
+    <td>
+<div style="display: flex; gap: 10px;">   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  width="40"/>
+          
+</div>
+    </td>
+  </tr>
+<tr>
+    <td><strong>QA</strong></td>
+    <td>
+<div style="display: flex; gap: 10px;">   
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40"/>
+          
+          
+    
+          
+           
+    
+</div>
+    </td>
+  </tr>  
 </table>    
 
 <h3 align="center">🚧 Ongoing Updates (2021 - 2025)</h3> 
