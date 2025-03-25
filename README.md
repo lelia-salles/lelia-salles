@@ -9,10 +9,14 @@
 
 
 
-<h2 align="center">🌱 My Journey in IT</h2> 
+<h2 align="center">⏫: My Journey in IT</h2> 
 <p align="center">  
   
 :arrow_upper_right: I began my IT apprenticeship in 2021, focusing on Java, JavaScript, Node.js, Bootstrap, HTML, CSS, SASS, DevOps (Python for security, AWS, Docker), Agile Methodology, Design Thinking, QA (Selenium, Robots), UX/UI, SQL, NoSQL (MongoDB), and a little bit of Microservices with Spring Boot. 
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
 <h3 align="center">🚧 Ongoing Updates (2021 - 2025)</h3> 
 
 I am currently updating this repository, as it originally contained my exercises from 2021. Since then, I've made improvements, refactored old code, and introduced new concepts based on my growing knowledge and experience.
