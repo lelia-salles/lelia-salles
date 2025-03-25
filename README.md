@@ -15,6 +15,7 @@
 :arrow_upper_right: I began my IT apprenticeship in 2021, at Digital House focusing on Java, JavaScript, Node.js, Bootstrap, HTML, CSS, SASS, DevOps (Python for security, AWS, Docker), Agile Methodology, Design Thinking, QA (Selenium, Robots), UX/UI, SQL, NoSQL (MongoDB), and a little bit of Microservices with Spring Boot. 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lelia-salles&theme=dark&show_icons=true)
+![My other GitHub stats](https://github-readme-stats.vercel.app/api?username=leliasalles&theme=dark&show_icons=true)
 
 </p>
 
