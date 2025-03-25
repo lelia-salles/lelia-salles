@@ -1,4 +1,3 @@
-# Lelia Salles
 <h1 align="center">Lelia Salles</h1>
 
 ## 👋 Hi, I’m @lelia-salles and welcome to my Github!
