@@ -15,13 +15,11 @@
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <div style="display: flex; gap: 10px;">
+ <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" />
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" />             
  </div>
     </td>
   </tr>
@@ -38,6 +36,19 @@
 </div>
     </td>
   </tr>
+  <tr>
+    <td><strong>Devops</strong></td>
+    <td>
+<div style="display: flex; gap: 10px;">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="40" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" />      
+</div>
+    </td>
+  </tr>
+  
 </table>    
 
 <h3 align="center">🚧 Ongoing Updates (2021 - 2025)</h3> 
