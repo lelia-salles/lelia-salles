@@ -6,6 +6,10 @@
   :notes: I’m a musician (MMus by research - Univerwsity of East Anglia - England | BMus composition - University of Brasilia, Recorder Player - winner awards solo category - The Wharfedale Music Festival, England), and fullstack web developer (Certified Tech Developer - Digital House), interested in the relation between music expression and technology.
 </p>
 
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 <h2 align="center">⏫: My Journey in IT</h2> 
 
 <p align="center"> 
@@ -75,12 +79,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40"/>
-          
-          
-    
-          
-           
-    
+  
 </div>
     </td>
   </tr>  
@@ -93,7 +92,7 @@ I am currently updating this repository, as it originally contained my exercises
 🔄 What’s changing:
 
 - Refactoring of earlier projects to reflect modern practices and optimizations.
-- Adding new exercises and projects that I have worked on recently.
+- Adding new exercises and projects that I have worked on in the past as well as recently.
 - Improving documentation and code readability.
 *Stay tuned for more updates!*
 </p> 
@@ -101,12 +100,6 @@ I am currently updating this repository, as it originally contained my exercises
 ![Stats](https://github-readme-stats.vercel.app/api?username=lelia-salles&theme=moltack&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lelia-salles&theme=moltack&layout=compact) 
 
-- 💞️ I’m looking to collaborate on any kind of project. However, I look forward to meet musicians around here. I also founded [Master Musica](https://www.mastermusica.com.br), which is a startup for musicians.
-- 📫 You can contact me at lelia@mastermusica.com.br or through [Linkedin](https://www.linkedin.com/in/leliasalles). I use to have another github account which I lost access and you can have a look at [here](https://www.github.com/leliasalles) in case you are interested
-- 😄 Pronouns: Ms. Lelia Salles
-- ⚡ Fun fact: no fun fact ...
-- ✨ Somtimes I use a library PC for coding and as I have no admin access I can´t use SSH so I have created another branch named Telecentro@CDI-05
-- 🤝 Please, feel free to contribute with any project here. Thank you!
 
 <!---
 lelia-salles/lelia-salles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
