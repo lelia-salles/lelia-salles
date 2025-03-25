@@ -111,7 +111,7 @@ I am currently updating this repository, as it originally contained my exercises
 <a href="https://www.linkedin.com/in/leliasalles" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lelia-salles)
+
 
 
 
