@@ -1,7 +1,6 @@
 <h1 align="center">Lelia Salles</h1>
 
-## 👋 Hi, I’m @lelia-salles and welcome to my Github!
-
+<h2 align="center">👋 Hi, I’m @lelia-salles and welcome to my Github!</h2> 
 
 :notes: I’m a musician (MMus by research, BMus composition, recorder player), and Certified Tech Developer fullstack 
 
