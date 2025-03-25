@@ -1,12 +1,7 @@
-<pre></pre>
+<pre>
 <h1 align="center">Lelia Salles</h1>
 
-
 <h2 align="center">👋 Hi, I’m @lelia-salles and welcome to my Github!</h2> 
-
-
-
-
 
 <p align="center">  
   :notes: I’m a musician (MMus by research, BMus composition, recorder player), and Certified Tech Developer fullstack interested in the relation between music expression and technology.
